@@ -3,10 +3,10 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
+- Nome: Pâmela Miranda
+- Matrícula: 21.2.8011
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 2023.2
 - Link para o seu GitHub:
 
 ## [Projeto final:](./Projeto/README.md)
