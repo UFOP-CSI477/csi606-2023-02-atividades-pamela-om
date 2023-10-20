@@ -6,8 +6,8 @@
 - Nome: Pâmela Miranda
 - Matrícula: 21.2.8011
 - Curso: Sistemas de Informação
-- Semestre/Ano correntes: 2023.2
-- Link para o seu GitHub:
+- Semestre/Ano correntes: 2023/2
+- Link para o seu GitHub: [pamela-om](https://github.com/pamela-om)
 
 ## [Projeto final:](./Projeto/README.md)
 
